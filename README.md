@@ -2,7 +2,7 @@
 
 
 
-Welcome to my Foundry Fund Me project! This repository marks the beginning of a series of projects I'll be sharing to showcase my skills and experience as a blockchain developer. Specifically, it highlights my proficiency in Solidity and smart contract development.
+Welcome to my Foundry Fund Me project! This repository marks the beginning of a series of projects I'll be sharing to showcase my skills and experience as a blockchain developer. 
 
 ## Project Overview
 
